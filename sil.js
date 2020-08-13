@@ -1,4 +1,0 @@
-denem
-sdf
-s
-fgsdfs
